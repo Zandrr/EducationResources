@@ -7,6 +7,7 @@
 [1 Silicon Valley’s New-Age AltSchool Unleashes Its Secrets](https://www.wired.com/2016/10/altschool-shares-secrets-outside-educators/) 
 
 [Alex-write-up](write-ups/alex-1.md)
+[Danny-write-up](write-ups/danny-1.md)
 
 Where 1 represents the code for the write-up file name
 
