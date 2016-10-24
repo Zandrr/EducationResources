@@ -4,7 +4,7 @@
 
 ### For example:
 
-[1 Silicon Valley’s New-Age AltSchool Unleashes Its Secrets](https://www.wired.com/2016/10/altschool-shares-secrets-outside-educators/) 
+### [1 Silicon Valley’s New-Age AltSchool Unleashes Its Secrets](https://www.wired.com/2016/10/altschool-shares-secrets-outside-educators/) 
 
 [Alex-write-up](write-ups/alex-1.md)
 
